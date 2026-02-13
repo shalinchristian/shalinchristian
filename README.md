@@ -15,22 +15,13 @@ Always learning. Always improving.
 <br>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,nodejs,express,mongodb,js,java,mysql,git,vscode&perline=11" />
+</div>
+
+<br>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shalinchristian&hide_title=true&show_icons=true&hide_border=true&theme=tokyonight" height="130"/>
-</div>
-
-<br>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Backend-Developer-181717?style=for-the-badge" height="22"/>
-  <img src="https://img.shields.io/badge/Frontend-Developer-0A66C2?style=for-the-badge" height="22"/>
-  <img src="https://img.shields.io/badge/Database-Systems-003B57?style=for-the-badge" height="22"/>
-  <img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="22"/>
-</div>
-
-<br>
-
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinchristian&layout=compact&hide_border=true&theme=tokyonight" height="130"/>
 </div>
 

@@ -3,9 +3,9 @@
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left">
-Full-Stack Developer • Java-focused • Curious builder<br>
-Creating clean, functional, and meaningful software.<br><br>
-Consistency > perfection.
+Full-Stack Developer • Curious builder • Problem solver<br>
+Focused on creating clean, efficient, and practical software.<br><br>
+Always learning. Always improving.
 </p>
 
 <div align="left">
@@ -21,12 +21,11 @@ Consistency > perfection.
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="22"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Backend-Developer-181717?style=for-the-badge" height="22"/>
+  <img src="https://img.shields.io/badge/Frontend-Developer-0A66C2?style=for-the-badge" height="22"/>
+  <img src="https://img.shields.io/badge/Database-Systems-003B57?style=for-the-badge" height="22"/>
+  <img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="22"/>
 </div>
 
 <br>
@@ -38,5 +37,5 @@ Consistency > perfection.
 <br>
 
 <p align="left">
-<sub>Building. Learning. Improving.</sub>
+<sub>Building reliable software through continuous learning.</sub>
 </p>

@@ -12,7 +12,7 @@ Focused on learning, improving, and creating meaningful projects.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shalinchristian&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalinchristian&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shalinchristian&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="140"/>
 </p>
 <br>
 <p align="left">
